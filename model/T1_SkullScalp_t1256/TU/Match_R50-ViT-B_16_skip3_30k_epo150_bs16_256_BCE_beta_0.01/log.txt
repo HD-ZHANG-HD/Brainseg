@@ -1,0 +1,2 @@
+[23:06:52.695] Namespace(base_lr=0.01, batch_size=16, beta=0.01, class_weight=None, conf_thresh=0.95, dataset='SkullScalp_t1', deterministic=1, device='cuda', exp='T1_SkullScalp_t1256', img_size=256, is_pretrain=False, loss='BCE', max_epochs=150, max_iterations=300, n_gpu=2, n_skip=3, num_classes=9, resume=0, root_path='./train_t1t2.h5', seed=1234, suffix='', vit_name='R50-ViT-B_16', vit_patches_size=16, warmup=0)
+[23:06:52.748] 5460.0 iterations per epoch. 819000.0 max iterations 

@@ -1,0 +1,8 @@
+numpy
+tqdm
+tensorboardX
+tensorflow
+tensorflow-estimator
+thop
+torch
+torchvision

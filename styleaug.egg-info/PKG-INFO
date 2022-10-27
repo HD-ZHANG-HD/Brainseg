@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: styleaug
+Version: 1.0
+Summary: Neural style randomization in PyTorch, for data augmentation
+Home-page: https://github.com/philipjackson/styleaug
+Author: Philip Jackson
+Author-email: p.t.g.jackson@durham.ac.uk
+License: MIT
+Platform: UNKNOWN
+License-File: LICENSE
+
+UNKNOWN
+

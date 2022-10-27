@@ -1,0 +1,262 @@
+[02:49:05.327] Namespace(base_lr=0.01, batch_size=2, beta=0.01, class_weight=None, conf_thresh=0.95, dataset='SkullScalp_t1', deterministic=1, device='cuda', exp='T1_SkullScalp_t1256', img_size=256, is_pretrain=False, loss='BCE', max_epochs=150, max_iterations=300, n_gpu=1, n_skip=3, num_classes=9, resume=0, root_path='./train_t1t2.h5', seed=1234, suffix='', vit_name='R50-ViT-B_16', vit_patches_size=16, warmup=0)
+[02:49:05.361] 43680.0 iterations per epoch. 6552000.0 max iterations 
+[02:49:09.918] iteration 1 : loss : 1.399579, loss_x: 2.030046, loss_u_s1: 1.007713, loss_u_s2: 1.007713, loss_u_w_fp: 0.530511
+[02:49:10.437] iteration 2 : loss : 1.046541, loss_x: 1.994012, loss_u_s1: 0.128572, loss_u_s2: 0.128572, loss_u_w_fp: 0.069569
+[02:49:10.874] iteration 3 : loss : 1.175753, loss_x: 2.000593, loss_u_s1: 0.633583, loss_u_s2: 0.633583, loss_u_w_fp: 0.068244
+[02:49:11.298] iteration 4 : loss : 1.286411, loss_x: 2.063890, loss_u_s1: 0.976853, loss_u_s2: 0.976853, loss_u_w_fp: 0.041011
+[02:49:11.729] iteration 5 : loss : 1.064557, loss_x: 2.058513, loss_u_s1: 0.123642, loss_u_s2: 0.123642, loss_u_w_fp: 0.017560
+[02:49:12.185] iteration 6 : loss : 1.099732, loss_x: 2.032644, loss_u_s1: 0.310220, loss_u_s2: 0.310220, loss_u_w_fp: 0.023421
+[02:49:12.627] iteration 7 : loss : 1.080332, loss_x: 2.031600, loss_u_s1: 0.230252, loss_u_s2: 0.230252, loss_u_w_fp: 0.027877
+[02:49:13.076] iteration 8 : loss : 1.054900, loss_x: 2.036193, loss_u_s1: 0.089962, loss_u_s2: 0.089962, loss_u_w_fp: 0.057250
+[02:49:13.519] iteration 9 : loss : 1.012979, loss_x: 1.991185, loss_u_s1: 0.026497, loss_u_s2: 0.026497, loss_u_w_fp: 0.043048
+[02:49:13.965] iteration 10 : loss : 1.051970, loss_x: 1.958904, loss_u_s1: 0.226422, loss_u_s2: 0.226422, loss_u_w_fp: 0.063648
+[02:49:14.415] iteration 11 : loss : 1.080269, loss_x: 1.948016, loss_u_s1: 0.337770, loss_u_s2: 0.337770, loss_u_w_fp: 0.087272
+[02:49:14.845] iteration 12 : loss : 1.057074, loss_x: 1.924419, loss_u_s1: 0.334301, loss_u_s2: 0.334301, loss_u_w_fp: 0.045157
+[02:49:15.270] iteration 13 : loss : 1.003615, loss_x: 1.863892, loss_u_s1: 0.231965, loss_u_s2: 0.231965, loss_u_w_fp: 0.054712
+[02:49:15.705] iteration 14 : loss : 1.030138, loss_x: 1.931402, loss_u_s1: 0.228631, loss_u_s2: 0.228631, loss_u_w_fp: 0.029119
+[02:56:01.189] Namespace(base_lr=0.01, batch_size=2, beta=0.01, class_weight=None, conf_thresh=0.95, dataset='SkullScalp_t1', deterministic=1, device='cuda', exp='T1_SkullScalp_t1256', img_size=256, is_pretrain=False, loss='BCE', max_epochs=150, max_iterations=300, n_gpu=1, n_skip=3, num_classes=9, resume=0, root_path='./train_t1t2.h5', seed=1234, suffix='', vit_name='R50-ViT-B_16', vit_patches_size=16, warmup=0)
+[02:56:01.218] 43680.0 iterations per epoch. 6552000.0 max iterations 
+[02:56:05.649] iteration 1 : loss : 1.399579, loss_x: 2.030046, loss_u_s1: 1.007713, loss_u_s2: 1.007713, loss_u_w_fp: 0.530511
+[02:56:06.146] iteration 2 : loss : 1.046807, loss_x: 1.994052, loss_u_s1: 0.129402, loss_u_s2: 0.129402, loss_u_w_fp: 0.069721
+[02:56:06.577] iteration 3 : loss : 1.176543, loss_x: 2.001746, loss_u_s1: 0.632607, loss_u_s2: 0.632607, loss_u_w_fp: 0.070074
+[02:56:07.008] iteration 4 : loss : 1.283178, loss_x: 2.060895, loss_u_s1: 0.964731, loss_u_s2: 0.964731, loss_u_w_fp: 0.046191
+[02:56:07.441] iteration 5 : loss : 1.065131, loss_x: 2.057888, loss_u_s1: 0.126586, loss_u_s2: 0.126586, loss_u_w_fp: 0.018164
+[02:56:07.876] iteration 6 : loss : 1.101765, loss_x: 2.032833, loss_u_s1: 0.319287, loss_u_s2: 0.319287, loss_u_w_fp: 0.022105
+[02:56:08.303] iteration 7 : loss : 1.075415, loss_x: 2.035032, loss_u_s1: 0.204087, loss_u_s2: 0.204087, loss_u_w_fp: 0.027509
+[02:56:08.903] iteration 8 : loss : 1.049272, loss_x: 2.042502, loss_u_s1: 0.084303, loss_u_s2: 0.084303, loss_u_w_fp: 0.027779
+[02:56:09.382] iteration 9 : loss : 1.018438, loss_x: 2.003088, loss_u_s1: 0.022266, loss_u_s2: 0.022266, loss_u_w_fp: 0.045311
+[02:56:09.861] iteration 10 : loss : 1.043300, loss_x: 1.963604, loss_u_s1: 0.193054, loss_u_s2: 0.193054, loss_u_w_fp: 0.052938
+[02:56:10.351] iteration 11 : loss : 1.070222, loss_x: 1.942183, loss_u_s1: 0.326512, loss_u_s2: 0.326512, loss_u_w_fp: 0.070010
+[02:56:10.809] iteration 12 : loss : 1.032845, loss_x: 1.925525, loss_u_s1: 0.232784, loss_u_s2: 0.232784, loss_u_w_fp: 0.047547
+[02:56:11.240] iteration 13 : loss : 0.999126, loss_x: 1.865517, loss_u_s1: 0.170883, loss_u_s2: 0.170883, loss_u_w_fp: 0.094587
+[02:56:11.677] iteration 14 : loss : 1.030395, loss_x: 1.951653, loss_u_s1: 0.187773, loss_u_s2: 0.187773, loss_u_w_fp: 0.030499
+[02:56:12.106] iteration 15 : loss : 1.027370, loss_x: 1.837107, loss_u_s1: 0.390165, loss_u_s2: 0.390165, loss_u_w_fp: 0.045099
+[02:56:12.575] iteration 16 : loss : 1.099148, loss_x: 1.946783, loss_u_s1: 0.460228, loss_u_s2: 0.460228, loss_u_w_fp: 0.042798
+[02:56:13.128] iteration 17 : loss : 0.942541, loss_x: 1.744744, loss_u_s1: 0.247511, loss_u_s2: 0.247511, loss_u_w_fp: 0.033166
+[02:56:13.679] iteration 18 : loss : 0.917178, loss_x: 1.684735, loss_u_s1: 0.263895, loss_u_s2: 0.263895, loss_u_w_fp: 0.035349
+[02:56:14.103] iteration 19 : loss : 0.874166, loss_x: 1.583964, loss_u_s1: 0.294280, loss_u_s2: 0.294280, loss_u_w_fp: 0.034457
+[02:56:14.556] iteration 20 : loss : 0.956601, loss_x: 1.832806, loss_u_s1: 0.131373, loss_u_s2: 0.131373, loss_u_w_fp: 0.029421
+[02:57:02.798] Namespace(base_lr=0.01, batch_size=2, beta=0.01, class_weight=None, conf_thresh=0.95, dataset='SkullScalp_t1', deterministic=1, device='cuda', exp='T1_SkullScalp_t1256', img_size=256, is_pretrain=False, loss='BCE', max_epochs=150, max_iterations=300, n_gpu=1, n_skip=3, num_classes=9, resume=0, root_path='./train_t1t2.h5', seed=1234, suffix='', vit_name='R50-ViT-B_16', vit_patches_size=16, warmup=0)
+[02:57:02.828] 43680.0 iterations per epoch. 6552000.0 max iterations 
+[02:57:06.866] iteration 1 : loss : 1.399579, loss_x: 2.030046, loss_u_s1: 1.007713, loss_u_s2: 1.007713, loss_u_w_fp: 0.530511
+[02:57:07.367] iteration 2 : loss : 1.047725, loss_x: 1.994002, loss_u_s1: 0.132028, loss_u_s2: 0.132028, loss_u_w_fp: 0.070867
+[02:57:07.797] iteration 3 : loss : 1.186472, loss_x: 2.001359, loss_u_s1: 0.675199, loss_u_s2: 0.675199, loss_u_w_fp: 0.067971
+[02:57:08.222] iteration 4 : loss : 1.276934, loss_x: 2.064265, loss_u_s1: 0.923220, loss_u_s2: 0.923220, loss_u_w_fp: 0.055986
+[02:57:08.647] iteration 5 : loss : 1.076961, loss_x: 2.057579, loss_u_s1: 0.176319, loss_u_s2: 0.176319, loss_u_w_fp: 0.016366
+[02:57:09.066] iteration 6 : loss : 1.088510, loss_x: 2.027150, loss_u_s1: 0.266223, loss_u_s2: 0.266223, loss_u_w_fp: 0.033518
+[02:57:09.498] iteration 7 : loss : 1.065247, loss_x: 2.021036, loss_u_s1: 0.201314, loss_u_s2: 0.201314, loss_u_w_fp: 0.017603
+[02:57:09.920] iteration 8 : loss : 1.055085, loss_x: 2.041555, loss_u_s1: 0.102598, loss_u_s2: 0.102598, loss_u_w_fp: 0.034633
+[02:57:10.339] iteration 9 : loss : 1.007985, loss_x: 1.976940, loss_u_s1: 0.037544, loss_u_s2: 0.037544, loss_u_w_fp: 0.040517
+[02:57:10.783] iteration 10 : loss : 1.036352, loss_x: 1.939709, loss_u_s1: 0.217116, loss_u_s2: 0.217116, loss_u_w_fp: 0.048872
+[02:57:11.232] iteration 11 : loss : 1.117053, loss_x: 1.934018, loss_u_s1: 0.475710, loss_u_s2: 0.475710, loss_u_w_fp: 0.124465
+[02:57:11.665] iteration 12 : loss : 1.068636, loss_x: 1.925576, loss_u_s1: 0.362206, loss_u_s2: 0.362206, loss_u_w_fp: 0.061186
+[02:57:12.100] iteration 13 : loss : 1.009666, loss_x: 1.865094, loss_u_s1: 0.236939, loss_u_s2: 0.236939, loss_u_w_fp: 0.071537
+[02:57:12.512] iteration 14 : loss : 1.027809, loss_x: 1.948478, loss_u_s1: 0.189145, loss_u_s2: 0.189145, loss_u_w_fp: 0.025134
+[02:57:12.928] iteration 15 : loss : 1.033888, loss_x: 1.851681, loss_u_s1: 0.406031, loss_u_s2: 0.406031, loss_u_w_fp: 0.026159
+[02:57:13.343] iteration 16 : loss : 1.090122, loss_x: 1.938609, loss_u_s1: 0.435817, loss_u_s2: 0.435817, loss_u_w_fp: 0.047452
+[02:57:13.768] iteration 17 : loss : 0.950609, loss_x: 1.773814, loss_u_s1: 0.226455, loss_u_s2: 0.226455, loss_u_w_fp: 0.028353
+[02:57:14.204] iteration 18 : loss : 0.908944, loss_x: 1.697337, loss_u_s1: 0.206237, loss_u_s2: 0.206237, loss_u_w_fp: 0.034865
+[02:57:14.661] iteration 19 : loss : 0.898890, loss_x: 1.602232, loss_u_s1: 0.339298, loss_u_s2: 0.339298, loss_u_w_fp: 0.051800
+[02:57:15.077] iteration 20 : loss : 0.963070, loss_x: 1.831327, loss_u_s1: 0.156274, loss_u_s2: 0.156274, loss_u_w_fp: 0.033353
+[03:02:51.331] Namespace(base_lr=0.01, batch_size=2, beta=0.01, class_weight=None, conf_thresh=0.95, dataset='SkullScalp_t1', deterministic=1, device='cuda', exp='T1_SkullScalp_t1256', img_size=256, is_pretrain=False, loss='BCE', max_epochs=150, max_iterations=300, n_gpu=1, n_skip=3, num_classes=9, resume=0, root_path='./train_t1t2.h5', seed=1234, suffix='', vit_name='R50-ViT-B_16', vit_patches_size=16, warmup=0)
+[03:02:51.361] 43680.0 iterations per epoch. 6552000.0 max iterations 
+[03:02:55.408] iteration 1 : loss : 1.399579, loss_x: 2.030046, loss_u_s1: 1.007713, loss_u_s2: 1.007713, loss_u_w_fp: 0.530511
+[03:02:55.883] iteration 2 : loss : 1.046873, loss_x: 1.994015, loss_u_s1: 0.129697, loss_u_s2: 0.129697, loss_u_w_fp: 0.069766
+[03:02:56.313] iteration 3 : loss : 1.166561, loss_x: 2.000384, loss_u_s1: 0.597787, loss_u_s2: 0.597787, loss_u_w_fp: 0.067687
+[03:02:56.722] iteration 4 : loss : 1.266491, loss_x: 2.063658, loss_u_s1: 0.889656, loss_u_s2: 0.889656, loss_u_w_fp: 0.048993
+[03:02:57.152] iteration 5 : loss : 1.072773, loss_x: 2.058639, loss_u_s1: 0.155269, loss_u_s2: 0.155269, loss_u_w_fp: 0.018543
+[03:02:57.568] iteration 6 : loss : 1.082037, loss_x: 2.024088, loss_u_s1: 0.257839, loss_u_s2: 0.257839, loss_u_w_fp: 0.022134
+[03:02:58.003] iteration 7 : loss : 1.056036, loss_x: 2.018030, loss_u_s1: 0.167994, loss_u_s2: 0.167994, loss_u_w_fp: 0.020091
+[03:02:58.428] iteration 8 : loss : 1.045902, loss_x: 2.036960, loss_u_s1: 0.075665, loss_u_s2: 0.075665, loss_u_w_fp: 0.034024
+[03:02:58.861] iteration 9 : loss : 1.015419, loss_x: 1.984372, loss_u_s1: 0.032981, loss_u_s2: 0.032981, loss_u_w_fp: 0.059951
+[03:02:59.300] iteration 10 : loss : 1.030089, loss_x: 1.938915, loss_u_s1: 0.197239, loss_u_s2: 0.197239, loss_u_w_fp: 0.045289
+[03:02:59.746] iteration 11 : loss : 1.066611, loss_x: 1.938118, loss_u_s1: 0.340957, loss_u_s2: 0.340957, loss_u_w_fp: 0.049252
+[03:03:00.198] iteration 12 : loss : 1.035733, loss_x: 1.918685, loss_u_s1: 0.247717, loss_u_s2: 0.247717, loss_u_w_fp: 0.057846
+[03:03:00.619] iteration 13 : loss : 0.995604, loss_x: 1.856276, loss_u_s1: 0.203083, loss_u_s2: 0.203083, loss_u_w_fp: 0.066782
+[03:03:01.052] iteration 14 : loss : 1.026166, loss_x: 1.959187, loss_u_s1: 0.160173, loss_u_s2: 0.160173, loss_u_w_fp: 0.026118
+[03:03:01.490] iteration 15 : loss : 0.972919, loss_x: 1.838493, loss_u_s1: 0.181179, loss_u_s2: 0.181179, loss_u_w_fp: 0.033510
+[03:03:01.940] iteration 16 : loss : 1.114724, loss_x: 1.951461, loss_u_s1: 0.513428, loss_u_s2: 0.513428, loss_u_w_fp: 0.042545
+[03:03:02.364] iteration 17 : loss : 0.919851, loss_x: 1.746409, loss_u_s1: 0.150213, loss_u_s2: 0.150213, loss_u_w_fp: 0.036374
+[03:03:02.805] iteration 18 : loss : 0.900785, loss_x: 1.688198, loss_u_s1: 0.195824, loss_u_s2: 0.195824, loss_u_w_fp: 0.030919
+[03:03:03.241] iteration 19 : loss : 0.863521, loss_x: 1.598104, loss_u_s1: 0.234733, loss_u_s2: 0.234733, loss_u_w_fp: 0.023144
+[03:03:03.664] iteration 20 : loss : 0.951297, loss_x: 1.832460, loss_u_s1: 0.114129, loss_u_s2: 0.114129, loss_u_w_fp: 0.026141
+[03:04:10.988] Namespace(base_lr=0.01, batch_size=2, beta=0.01, class_weight=None, conf_thresh=0.95, dataset='SkullScalp_t1', deterministic=1, device='cuda', exp='T1_SkullScalp_t1256', img_size=256, is_pretrain=False, loss='BCE', max_epochs=150, max_iterations=300, n_gpu=1, n_skip=3, num_classes=9, resume=0, root_path='./train_t1t2.h5', seed=1234, suffix='', vit_name='R50-ViT-B_16', vit_patches_size=16, warmup=0)
+[03:04:11.020] 43680.0 iterations per epoch. 6552000.0 max iterations 
+[03:04:14.668] iteration 1 : loss : 2.046802, loss_ce: 3.216447
+[03:04:14.986] iteration 2 : loss : 1.974884, loss_ce: 3.089147
+[03:04:15.211] iteration 3 : loss : 1.912872, loss_ce: 2.947065
+[03:04:15.430] iteration 4 : loss : 1.853328, loss_ce: 2.854499
+[03:04:15.645] iteration 5 : loss : 1.840282, loss_ce: 2.721096
+[03:04:15.867] iteration 6 : loss : 1.710272, loss_ce: 2.596900
+[03:04:16.092] iteration 7 : loss : 1.644143, loss_ce: 2.488659
+[03:04:16.310] iteration 8 : loss : 1.542224, loss_ce: 2.274511
+[03:04:16.528] iteration 9 : loss : 1.570999, loss_ce: 2.359842
+[03:04:16.748] iteration 10 : loss : 1.500407, loss_ce: 2.225249
+[03:04:16.974] iteration 11 : loss : 1.353475, loss_ce: 1.923478
+[03:04:17.191] iteration 12 : loss : 1.487407, loss_ce: 2.210808
+[03:04:17.410] iteration 13 : loss : 1.366989, loss_ce: 1.985257
+[03:04:17.634] iteration 14 : loss : 1.460924, loss_ce: 2.167696
+[03:04:17.862] iteration 15 : loss : 1.260080, loss_ce: 1.718085
+[03:04:18.081] iteration 16 : loss : 1.505215, loss_ce: 2.220436
+[03:04:18.319] iteration 17 : loss : 1.224658, loss_ce: 1.713332
+[03:04:18.539] iteration 18 : loss : 1.168772, loss_ce: 1.609954
+[03:04:18.763] iteration 19 : loss : 1.111323, loss_ce: 1.493783
+[03:04:18.995] iteration 20 : loss : 1.431550, loss_ce: 2.067817
+[03:05:28.281] Namespace(base_lr=0.01, batch_size=2, beta=0.01, class_weight=None, conf_thresh=0.95, dataset='SkullScalp_t1', deterministic=1, device='cuda', exp='T1_SkullScalp_t1256', img_size=256, is_pretrain=False, loss='BCE', max_epochs=150, max_iterations=300, n_gpu=1, n_skip=3, num_classes=9, resume=0, root_path='./train_t1t2.h5', seed=1234, suffix='', vit_name='R50-ViT-B_16', vit_patches_size=16, warmup=0)
+[03:05:28.308] 43680.0 iterations per epoch. 6552000.0 max iterations 
+[03:05:32.261] iteration 1 : loss : 1.399579, loss_x: 2.030046, loss_u_s1: 1.007713, loss_u_s2: 1.007713, loss_u_w_fp: 0.530511
+[03:05:32.759] iteration 2 : loss : 1.047746, loss_x: 1.994020, loss_u_s1: 0.132014, loss_u_s2: 0.132014, loss_u_w_fp: 0.070930
+[03:05:33.200] iteration 3 : loss : 1.181230, loss_x: 2.000926, loss_u_s1: 0.656451, loss_u_s2: 0.656451, loss_u_w_fp: 0.066616
+[03:05:33.630] iteration 4 : loss : 1.274405, loss_x: 2.063687, loss_u_s1: 0.923213, loss_u_s2: 0.923213, loss_u_w_fp: 0.047030
+[03:05:34.051] iteration 5 : loss : 1.065886, loss_x: 2.056159, loss_u_s1: 0.133651, loss_u_s2: 0.133651, loss_u_w_fp: 0.017577
+[03:05:34.477] iteration 6 : loss : 1.077553, loss_x: 2.020000, loss_u_s1: 0.247470, loss_u_s2: 0.247470, loss_u_w_fp: 0.022742
+[03:05:34.919] iteration 7 : loss : 1.064019, loss_x: 2.017921, loss_u_s1: 0.204846, loss_u_s2: 0.204846, loss_u_w_fp: 0.015387
+[03:05:35.373] iteration 8 : loss : 1.045553, loss_x: 2.032579, loss_u_s1: 0.077374, loss_u_s2: 0.077374, loss_u_w_fp: 0.039682
+[03:05:35.810] iteration 9 : loss : 1.009269, loss_x: 1.979716, loss_u_s1: 0.027378, loss_u_s2: 0.027378, loss_u_w_fp: 0.050264
+[03:05:36.248] iteration 10 : loss : 1.055709, loss_x: 1.934288, loss_u_s1: 0.278062, loss_u_s2: 0.278062, loss_u_w_fp: 0.076199
+[03:05:36.704] iteration 11 : loss : 1.081582, loss_x: 1.939529, loss_u_s1: 0.392179, loss_u_s2: 0.392179, loss_u_w_fp: 0.055091
+[03:05:37.133] iteration 12 : loss : 1.049714, loss_x: 1.917966, loss_u_s1: 0.302840, loss_u_s2: 0.302840, loss_u_w_fp: 0.060083
+[03:05:37.574] iteration 13 : loss : 0.997207, loss_x: 1.856784, loss_u_s1: 0.196390, loss_u_s2: 0.196390, loss_u_w_fp: 0.078869
+[03:05:37.997] iteration 14 : loss : 1.023881, loss_x: 1.959216, loss_u_s1: 0.151533, loss_u_s2: 0.151533, loss_u_w_fp: 0.025557
+[03:05:38.423] iteration 15 : loss : 1.029141, loss_x: 1.847695, loss_u_s1: 0.399880, loss_u_s2: 0.399880, loss_u_w_fp: 0.021293
+[03:05:38.859] iteration 16 : loss : 1.092973, loss_x: 1.944549, loss_u_s1: 0.446996, loss_u_s2: 0.446996, loss_u_w_fp: 0.035797
+[03:05:39.296] iteration 17 : loss : 0.952412, loss_x: 1.760376, loss_u_s1: 0.259373, loss_u_s2: 0.259373, loss_u_w_fp: 0.029523
+[03:05:39.752] iteration 18 : loss : 0.908568, loss_x: 1.686430, loss_u_s1: 0.226882, loss_u_s2: 0.226882, loss_u_w_fp: 0.034531
+[03:05:40.191] iteration 19 : loss : 0.877616, loss_x: 1.584793, loss_u_s1: 0.313840, loss_u_s2: 0.313840, loss_u_w_fp: 0.027037
+[03:05:40.629] iteration 20 : loss : 0.958241, loss_x: 1.828652, loss_u_s1: 0.146948, loss_u_s2: 0.146948, loss_u_w_fp: 0.028710
+[03:05:57.624] Namespace(base_lr=0.01, batch_size=2, beta=0.01, class_weight=None, conf_thresh=0.95, dataset='SkullScalp_t1', deterministic=1, device='cuda', exp='T1_SkullScalp_t1256', img_size=256, is_pretrain=False, loss='BCE', max_epochs=150, max_iterations=300, n_gpu=1, n_skip=3, num_classes=9, resume=0, root_path='./train_t1t2.h5', seed=1234, suffix='', vit_name='R50-ViT-B_16', vit_patches_size=16, warmup=0)
+[03:05:57.653] 43680.0 iterations per epoch. 6552000.0 max iterations 
+[03:06:01.663] iteration 1 : loss : 1.399579, loss_x: 2.030046, loss_u_s1: 1.007713, loss_u_s2: 1.007713, loss_u_w_fp: 0.530511
+[03:06:02.136] iteration 2 : loss : 1.047650, loss_x: 1.994056, loss_u_s1: 0.131639, loss_u_s2: 0.131639, loss_u_w_fp: 0.070850
+[03:06:02.559] iteration 3 : loss : 1.181524, loss_x: 2.000607, loss_u_s1: 0.656837, loss_u_s2: 0.656837, loss_u_w_fp: 0.068046
+[03:06:02.994] iteration 4 : loss : 1.276421, loss_x: 2.065522, loss_u_s1: 0.921987, loss_u_s2: 0.921987, loss_u_w_fp: 0.052651
+[03:06:03.423] iteration 5 : loss : 1.077736, loss_x: 2.058399, loss_u_s1: 0.173289, loss_u_s2: 0.173289, loss_u_w_fp: 0.020856
+[03:06:03.846] iteration 6 : loss : 1.087782, loss_x: 2.026519, loss_u_s1: 0.265691, loss_u_s2: 0.265691, loss_u_w_fp: 0.032400
+[03:06:04.272] iteration 7 : loss : 1.076417, loss_x: 2.029900, loss_u_s1: 0.225880, loss_u_s2: 0.225880, loss_u_w_fp: 0.019990
+[03:06:04.709] iteration 8 : loss : 1.056204, loss_x: 2.041992, loss_u_s1: 0.101009, loss_u_s2: 0.101009, loss_u_w_fp: 0.039821
+[03:06:05.122] iteration 9 : loss : 1.015841, loss_x: 1.995647, loss_u_s1: 0.023783, loss_u_s2: 0.023783, loss_u_w_fp: 0.048286
+[03:06:05.545] iteration 10 : loss : 1.053511, loss_x: 1.950247, loss_u_s1: 0.248613, loss_u_s2: 0.248613, loss_u_w_fp: 0.064938
+[03:06:05.972] iteration 11 : loss : 1.086190, loss_x: 1.952334, loss_u_s1: 0.373697, loss_u_s2: 0.373697, loss_u_w_fp: 0.066395
+[03:06:06.394] iteration 12 : loss : 1.050653, loss_x: 1.938779, loss_u_s1: 0.280365, loss_u_s2: 0.280365, loss_u_w_fp: 0.044690
+[03:06:06.859] iteration 13 : loss : 0.994478, loss_x: 1.869774, loss_u_s1: 0.160392, loss_u_s2: 0.160392, loss_u_w_fp: 0.077971
+[03:06:07.291] iteration 14 : loss : 1.032618, loss_x: 1.964990, loss_u_s1: 0.178414, loss_u_s2: 0.178414, loss_u_w_fp: 0.022075
+[03:06:07.702] iteration 15 : loss : 1.024512, loss_x: 1.861060, loss_u_s1: 0.348086, loss_u_s2: 0.348086, loss_u_w_fp: 0.027840
+[03:06:08.130] iteration 16 : loss : 1.100853, loss_x: 1.941050, loss_u_s1: 0.481267, loss_u_s2: 0.481267, loss_u_w_fp: 0.040043
+[03:06:08.569] iteration 17 : loss : 0.945365, loss_x: 1.771549, loss_u_s1: 0.210407, loss_u_s2: 0.210407, loss_u_w_fp: 0.027955
+[03:06:08.997] iteration 18 : loss : 0.921516, loss_x: 1.695839, loss_u_s1: 0.256346, loss_u_s2: 0.256346, loss_u_w_fp: 0.038041
+[03:06:09.433] iteration 19 : loss : 0.906418, loss_x: 1.593898, loss_u_s1: 0.367500, loss_u_s2: 0.367500, loss_u_w_fp: 0.070376
+[03:06:09.875] iteration 20 : loss : 0.955393, loss_x: 1.829567, loss_u_s1: 0.131008, loss_u_s2: 0.131008, loss_u_w_fp: 0.031430
+[03:06:10.342] iteration 21 : loss : 0.858578, loss_x: 1.573004, loss_u_s1: 0.258802, loss_u_s2: 0.258802, loss_u_w_fp: 0.029501
+[03:06:10.793] iteration 22 : loss : 0.773012, loss_x: 1.478154, loss_u_s1: 0.105427, loss_u_s2: 0.105427, loss_u_w_fp: 0.030315
+[03:06:11.224] iteration 23 : loss : 0.900828, loss_x: 1.733941, loss_u_s1: 0.095860, loss_u_s2: 0.095860, loss_u_w_fp: 0.039569
+[03:06:11.653] iteration 24 : loss : 0.827482, loss_x: 1.532793, loss_u_s1: 0.187660, loss_u_s2: 0.187660, loss_u_w_fp: 0.056681
+[03:06:12.064] iteration 25 : loss : 0.760034, loss_x: 1.243101, loss_u_s1: 0.519126, loss_u_s2: 0.519126, loss_u_w_fp: 0.034807
+[03:06:12.495] iteration 26 : loss : 0.733758, loss_x: 1.379097, loss_u_s1: 0.130288, loss_u_s2: 0.130288, loss_u_w_fp: 0.046551
+[03:06:12.930] iteration 27 : loss : 0.837232, loss_x: 1.558224, loss_u_s1: 0.192144, loss_u_s2: 0.192144, loss_u_w_fp: 0.040337
+[03:06:13.364] iteration 28 : loss : 0.791318, loss_x: 1.508091, loss_u_s1: 0.111907, loss_u_s2: 0.111907, loss_u_w_fp: 0.037183
+[03:06:13.789] iteration 29 : loss : 0.685836, loss_x: 1.289507, loss_u_s1: 0.126311, loss_u_s2: 0.126311, loss_u_w_fp: 0.038020
+[03:06:14.255] iteration 30 : loss : 0.757352, loss_x: 1.471529, loss_u_s1: 0.060571, loss_u_s2: 0.060571, loss_u_w_fp: 0.025780
+[03:06:14.684] iteration 31 : loss : 0.780170, loss_x: 1.458584, loss_u_s1: 0.170135, loss_u_s2: 0.170135, loss_u_w_fp: 0.033377
+[03:06:15.120] iteration 32 : loss : 0.750829, loss_x: 1.330670, loss_u_s1: 0.307361, loss_u_s2: 0.307361, loss_u_w_fp: 0.034614
+[03:06:15.559] iteration 33 : loss : 0.764008, loss_x: 1.426268, loss_u_s1: 0.171962, loss_u_s2: 0.171962, loss_u_w_fp: 0.031534
+[03:06:15.983] iteration 34 : loss : 0.819452, loss_x: 1.324132, loss_u_s1: 0.588287, loss_u_s2: 0.588287, loss_u_w_fp: 0.041256
+[03:06:16.419] iteration 35 : loss : 0.733591, loss_x: 1.254721, loss_u_s1: 0.368016, loss_u_s2: 0.368016, loss_u_w_fp: 0.056906
+[03:06:16.868] iteration 36 : loss : 0.683193, loss_x: 1.305297, loss_u_s1: 0.098016, loss_u_s2: 0.098016, loss_u_w_fp: 0.024159
+[03:06:17.298] iteration 37 : loss : 0.721295, loss_x: 1.223239, loss_u_s1: 0.392275, loss_u_s2: 0.392275, loss_u_w_fp: 0.046428
+[03:06:17.713] iteration 38 : loss : 0.669858, loss_x: 1.258789, loss_u_s1: 0.147595, loss_u_s2: 0.147595, loss_u_w_fp: 0.014257
+[03:06:18.150] iteration 39 : loss : 0.719462, loss_x: 1.292426, loss_u_s1: 0.256383, loss_u_s2: 0.256383, loss_u_w_fp: 0.036613
+[03:06:18.582] iteration 40 : loss : 0.605665, loss_x: 1.153594, loss_u_s1: 0.088316, loss_u_s2: 0.088316, loss_u_w_fp: 0.027156
+[03:06:19.053] iteration 41 : loss : 0.726618, loss_x: 1.402769, loss_u_s1: 0.088133, loss_u_s2: 0.088133, loss_u_w_fp: 0.012801
+[03:06:19.484] iteration 42 : loss : 0.859206, loss_x: 1.652192, loss_u_s1: 0.103416, loss_u_s2: 0.103416, loss_u_w_fp: 0.029024
+[03:06:19.904] iteration 43 : loss : 0.601940, loss_x: 1.173120, loss_u_s1: 0.048584, loss_u_s2: 0.048584, loss_u_w_fp: 0.012936
+[03:06:20.328] iteration 44 : loss : 0.796076, loss_x: 1.555030, loss_u_s1: 0.059905, loss_u_s2: 0.059905, loss_u_w_fp: 0.014340
+[03:06:20.775] iteration 45 : loss : 0.656243, loss_x: 1.113072, loss_u_s1: 0.344675, loss_u_s2: 0.344675, loss_u_w_fp: 0.054153
+[03:06:21.212] iteration 46 : loss : 0.664251, loss_x: 1.239735, loss_u_s1: 0.144292, loss_u_s2: 0.144292, loss_u_w_fp: 0.033241
+[03:06:21.648] iteration 47 : loss : 0.673790, loss_x: 1.312466, loss_u_s1: 0.052945, loss_u_s2: 0.052945, loss_u_w_fp: 0.017282
+[03:06:22.070] iteration 48 : loss : 0.625067, loss_x: 1.195467, loss_u_s1: 0.090440, loss_u_s2: 0.090440, loss_u_w_fp: 0.018892
+[03:06:22.486] iteration 49 : loss : 0.574511, loss_x: 1.112017, loss_u_s1: 0.061951, loss_u_s2: 0.061951, loss_u_w_fp: 0.012061
+[03:06:22.916] iteration 50 : loss : 0.796302, loss_x: 1.498444, loss_u_s1: 0.167407, loss_u_s2: 0.167407, loss_u_w_fp: 0.020913
+[03:06:23.355] iteration 51 : loss : 0.636733, loss_x: 1.247767, loss_u_s1: 0.042605, loss_u_s2: 0.042605, loss_u_w_fp: 0.008795
+[03:06:23.792] iteration 52 : loss : 0.663091, loss_x: 1.235426, loss_u_s1: 0.159819, loss_u_s2: 0.159819, loss_u_w_fp: 0.021694
+[03:06:24.248] iteration 53 : loss : 0.641639, loss_x: 1.215462, loss_u_s1: 0.098941, loss_u_s2: 0.098941, loss_u_w_fp: 0.036689
+[03:06:24.690] iteration 54 : loss : 0.680606, loss_x: 1.231936, loss_u_s1: 0.220072, loss_u_s2: 0.220072, loss_u_w_fp: 0.038480
+[03:06:25.120] iteration 55 : loss : 0.773870, loss_x: 1.507122, loss_u_s1: 0.071124, loss_u_s2: 0.071124, loss_u_w_fp: 0.010112
+[03:06:25.542] iteration 56 : loss : 0.575052, loss_x: 1.137709, loss_u_s1: 0.018807, loss_u_s2: 0.018807, loss_u_w_fp: 0.005984
+[03:06:25.968] iteration 57 : loss : 0.707319, loss_x: 1.393979, loss_u_s1: 0.035817, loss_u_s2: 0.035817, loss_u_w_fp: 0.005500
+[03:06:26.402] iteration 58 : loss : 0.646659, loss_x: 1.182950, loss_u_s1: 0.183937, loss_u_s2: 0.183937, loss_u_w_fp: 0.036798
+[03:06:26.835] iteration 59 : loss : 0.688571, loss_x: 1.311515, loss_u_s1: 0.122555, loss_u_s2: 0.122555, loss_u_w_fp: 0.008699
+[03:06:27.285] iteration 60 : loss : 0.652726, loss_x: 1.273871, loss_u_s1: 0.054913, loss_u_s2: 0.054913, loss_u_w_fp: 0.008247
+[03:06:27.754] iteration 61 : loss : 0.715326, loss_x: 1.416381, loss_u_s1: 0.021764, loss_u_s2: 0.021764, loss_u_w_fp: 0.006779
+[03:06:28.187] iteration 62 : loss : 0.589683, loss_x: 1.156604, loss_u_s1: 0.040632, loss_u_s2: 0.040632, loss_u_w_fp: 0.004893
+[03:06:28.622] iteration 63 : loss : 0.661374, loss_x: 1.222315, loss_u_s1: 0.170619, loss_u_s2: 0.170619, loss_u_w_fp: 0.030249
+[03:06:29.100] iteration 64 : loss : 0.558246, loss_x: 1.100635, loss_u_s1: 0.027425, loss_u_s2: 0.027425, loss_u_w_fp: 0.004290
+[03:06:29.551] iteration 65 : loss : 0.560179, loss_x: 1.079519, loss_u_s1: 0.077281, loss_u_s2: 0.077281, loss_u_w_fp: 0.004398
+[03:06:29.981] iteration 66 : loss : 0.685783, loss_x: 1.348719, loss_u_s1: 0.039595, loss_u_s2: 0.039595, loss_u_w_fp: 0.006098
+[03:06:30.411] iteration 67 : loss : 0.730797, loss_x: 1.440485, loss_u_s1: 0.036236, loss_u_s2: 0.036236, loss_u_w_fp: 0.005982
+[03:06:30.863] iteration 68 : loss : 0.590490, loss_x: 1.154235, loss_u_s1: 0.044089, loss_u_s2: 0.044089, loss_u_w_fp: 0.009402
+[03:06:31.320] iteration 69 : loss : 0.618878, loss_x: 1.129980, loss_u_s1: 0.177043, loss_u_s2: 0.177043, loss_u_w_fp: 0.038507
+[03:06:31.752] iteration 70 : loss : 0.580445, loss_x: 1.133048, loss_u_s1: 0.049722, loss_u_s2: 0.049722, loss_u_w_fp: 0.005964
+[03:06:32.181] iteration 71 : loss : 0.638277, loss_x: 1.232055, loss_u_s1: 0.072239, loss_u_s2: 0.072239, loss_u_w_fp: 0.016760
+[03:06:32.623] iteration 72 : loss : 0.577090, loss_x: 1.059176, loss_u_s1: 0.154480, loss_u_s2: 0.154480, loss_u_w_fp: 0.035528
+[03:06:33.068] iteration 73 : loss : 0.600423, loss_x: 1.157880, loss_u_s1: 0.076059, loss_u_s2: 0.076059, loss_u_w_fp: 0.009874
+[03:06:33.518] iteration 74 : loss : 0.574093, loss_x: 1.133837, loss_u_s1: 0.024444, loss_u_s2: 0.024444, loss_u_w_fp: 0.004251
+[03:06:33.958] iteration 75 : loss : 0.571347, loss_x: 1.117471, loss_u_s1: 0.045765, loss_u_s2: 0.045765, loss_u_w_fp: 0.004682
+[03:06:34.403] iteration 76 : loss : 0.598320, loss_x: 1.105551, loss_u_s1: 0.155131, loss_u_s2: 0.155131, loss_u_w_fp: 0.027048
+[03:06:34.848] iteration 77 : loss : 0.589859, loss_x: 1.105429, loss_u_s1: 0.128550, loss_u_s2: 0.128550, loss_u_w_fp: 0.020028
+[03:06:35.284] iteration 78 : loss : 0.623842, loss_x: 1.229394, loss_u_s1: 0.029167, loss_u_s2: 0.029167, loss_u_w_fp: 0.007415
+[03:06:35.710] iteration 79 : loss : 0.546266, loss_x: 1.065712, loss_u_s1: 0.045843, loss_u_s2: 0.045843, loss_u_w_fp: 0.007798
+[03:06:36.173] iteration 80 : loss : 0.543926, loss_x: 1.054520, loss_u_s1: 0.060578, loss_u_s2: 0.060578, loss_u_w_fp: 0.006087
+[03:06:36.660] iteration 81 : loss : 0.620245, loss_x: 1.143916, loss_u_s1: 0.160475, loss_u_s2: 0.160475, loss_u_w_fp: 0.032673
+[03:06:37.088] iteration 82 : loss : 0.614380, loss_x: 1.212716, loss_u_s1: 0.027760, loss_u_s2: 0.027760, loss_u_w_fp: 0.004327
+[03:06:37.531] iteration 83 : loss : 0.679633, loss_x: 1.228617, loss_u_s1: 0.243703, loss_u_s2: 0.243703, loss_u_w_fp: 0.017596
+[03:06:37.961] iteration 84 : loss : 0.557497, loss_x: 1.084338, loss_u_s1: 0.055883, loss_u_s2: 0.055883, loss_u_w_fp: 0.005428
+[03:06:38.422] iteration 85 : loss : 0.606385, loss_x: 1.193755, loss_u_s1: 0.033131, loss_u_s2: 0.033131, loss_u_w_fp: 0.004897
+[03:06:38.886] iteration 86 : loss : 0.537007, loss_x: 1.059402, loss_u_s1: 0.020730, loss_u_s2: 0.020730, loss_u_w_fp: 0.008495
+[03:06:39.332] iteration 87 : loss : 0.652529, loss_x: 1.208304, loss_u_s1: 0.173630, loss_u_s2: 0.173630, loss_u_w_fp: 0.019877
+[03:06:39.783] iteration 88 : loss : 0.554352, loss_x: 1.093416, loss_u_s1: 0.025892, loss_u_s2: 0.025892, loss_u_w_fp: 0.004684
+[03:06:40.205] iteration 89 : loss : 0.520893, loss_x: 1.007429, loss_u_s1: 0.059631, loss_u_s2: 0.059631, loss_u_w_fp: 0.009084
+[03:06:40.656] iteration 90 : loss : 0.722457, loss_x: 1.329885, loss_u_s1: 0.206905, loss_u_s2: 0.206905, loss_u_w_fp: 0.023152
+[03:06:41.105] iteration 91 : loss : 0.794561, loss_x: 1.473825, loss_u_s1: 0.197779, loss_u_s2: 0.197779, loss_u_w_fp: 0.032814
+[03:06:41.541] iteration 92 : loss : 0.556183, loss_x: 1.047899, loss_u_s1: 0.079649, loss_u_s2: 0.079649, loss_u_w_fp: 0.049285
+[03:06:41.972] iteration 93 : loss : 0.518166, loss_x: 1.020948, loss_u_s1: 0.022601, loss_u_s2: 0.022601, loss_u_w_fp: 0.008166
+[03:06:42.405] iteration 94 : loss : 0.520289, loss_x: 1.030035, loss_u_s1: 0.015493, loss_u_s2: 0.015493, loss_u_w_fp: 0.005593
+[03:06:42.868] iteration 95 : loss : 0.757160, loss_x: 1.414722, loss_u_s1: 0.170334, loss_u_s2: 0.170334, loss_u_w_fp: 0.028863
+[03:06:43.295] iteration 96 : loss : 0.621528, loss_x: 1.222964, loss_u_s1: 0.035200, loss_u_s2: 0.035200, loss_u_w_fp: 0.004983
+[03:06:43.736] iteration 97 : loss : 0.540182, loss_x: 1.060252, loss_u_s1: 0.035538, loss_u_s2: 0.035538, loss_u_w_fp: 0.004685
+[03:06:44.169] iteration 98 : loss : 0.567089, loss_x: 1.036121, loss_u_s1: 0.159721, loss_u_s2: 0.159721, loss_u_w_fp: 0.036393
+[03:06:44.620] iteration 99 : loss : 0.532291, loss_x: 1.010303, loss_u_s1: 0.078685, loss_u_s2: 0.078685, loss_u_w_fp: 0.029874
+[03:06:45.081] iteration 100 : loss : 0.552274, loss_x: 1.089658, loss_u_s1: 0.024294, loss_u_s2: 0.024294, loss_u_w_fp: 0.005485
+[03:06:45.549] iteration 101 : loss : 0.577868, loss_x: 1.139665, loss_u_s1: 0.027912, loss_u_s2: 0.027912, loss_u_w_fp: 0.004229
+[03:06:45.974] iteration 102 : loss : 0.530944, loss_x: 1.037038, loss_u_s1: 0.044454, loss_u_s2: 0.044454, loss_u_w_fp: 0.005245
+[03:06:46.395] iteration 103 : loss : 0.555681, loss_x: 1.095292, loss_u_s1: 0.028864, loss_u_s2: 0.028864, loss_u_w_fp: 0.003276
+[03:06:46.826] iteration 104 : loss : 0.530105, loss_x: 0.999732, loss_u_s1: 0.097472, loss_u_s2: 0.097472, loss_u_w_fp: 0.023483
+[03:06:47.277] iteration 105 : loss : 0.568593, loss_x: 1.118681, loss_u_s1: 0.027423, loss_u_s2: 0.027423, loss_u_w_fp: 0.009586
+[03:06:47.691] iteration 106 : loss : 0.595765, loss_x: 1.136541, loss_u_s1: 0.101675, loss_u_s2: 0.101675, loss_u_w_fp: 0.008305
+[03:06:48.121] iteration 107 : loss : 0.525689, loss_x: 1.038512, loss_u_s1: 0.018079, loss_u_s2: 0.018079, loss_u_w_fp: 0.007655
+[03:06:48.565] iteration 108 : loss : 0.540349, loss_x: 1.046696, loss_u_s1: 0.061086, loss_u_s2: 0.061086, loss_u_w_fp: 0.006917
+[03:06:49.017] iteration 109 : loss : 0.522980, loss_x: 1.036480, loss_u_s1: 0.015870, loss_u_s2: 0.015870, loss_u_w_fp: 0.003092
+[03:06:49.451] iteration 110 : loss : 0.512906, loss_x: 1.008867, loss_u_s1: 0.026922, loss_u_s2: 0.026922, loss_u_w_fp: 0.006967
+[03:06:49.896] iteration 111 : loss : 0.509555, loss_x: 1.005493, loss_u_s1: 0.021948, loss_u_s2: 0.021948, loss_u_w_fp: 0.005285
+[03:06:50.324] iteration 112 : loss : 0.710114, loss_x: 1.394635, loss_u_s1: 0.040451, loss_u_s2: 0.040451, loss_u_w_fp: 0.010735
+[03:06:50.756] iteration 113 : loss : 0.488398, loss_x: 0.954404, loss_u_s1: 0.037935, loss_u_s2: 0.037935, loss_u_w_fp: 0.006847
+[03:06:51.178] iteration 114 : loss : 0.514104, loss_x: 0.991514, loss_u_s1: 0.054132, loss_u_s2: 0.054132, loss_u_w_fp: 0.019255
+[03:06:51.607] iteration 115 : loss : 0.618958, loss_x: 1.138206, loss_u_s1: 0.180823, loss_u_s2: 0.180823, loss_u_w_fp: 0.018597
+[03:06:52.058] iteration 116 : loss : 0.681046, loss_x: 1.348913, loss_u_s1: 0.019076, loss_u_s2: 0.019076, loss_u_w_fp: 0.007281
+[03:06:52.518] iteration 117 : loss : 0.666137, loss_x: 1.309217, loss_u_s1: 0.041454, loss_u_s2: 0.041454, loss_u_w_fp: 0.004659
+[03:06:52.942] iteration 118 : loss : 0.640699, loss_x: 1.224315, loss_u_s1: 0.084224, loss_u_s2: 0.084224, loss_u_w_fp: 0.029940
+[03:06:53.374] iteration 119 : loss : 0.606032, loss_x: 1.122854, loss_u_s1: 0.162810, loss_u_s2: 0.162810, loss_u_w_fp: 0.015611
+[03:06:53.818] iteration 120 : loss : 0.751896, loss_x: 1.483979, loss_u_s1: 0.035198, loss_u_s2: 0.035198, loss_u_w_fp: 0.004430
+[03:06:54.290] iteration 121 : loss : 0.626510, loss_x: 1.147823, loss_u_s1: 0.178777, loss_u_s2: 0.178777, loss_u_w_fp: 0.031616
+[03:06:54.715] iteration 122 : loss : 0.516957, loss_x: 1.016308, loss_u_s1: 0.028746, loss_u_s2: 0.028746, loss_u_w_fp: 0.006464
+[03:06:55.151] iteration 123 : loss : 0.605664, loss_x: 1.117571, loss_u_s1: 0.162398, loss_u_s2: 0.162398, loss_u_w_fp: 0.025116
+[03:06:55.583] iteration 124 : loss : 0.598095, loss_x: 1.084853, loss_u_s1: 0.180145, loss_u_s2: 0.180145, loss_u_w_fp: 0.042529
+[03:06:56.043] iteration 125 : loss : 0.523772, loss_x: 1.017314, loss_u_s1: 0.057161, loss_u_s2: 0.057161, loss_u_w_fp: 0.003300
+[03:06:56.480] iteration 126 : loss : 0.548271, loss_x: 1.082282, loss_u_s1: 0.023991, loss_u_s2: 0.023991, loss_u_w_fp: 0.004529
+[03:06:56.910] iteration 127 : loss : 0.554715, loss_x: 1.100618, loss_u_s1: 0.012759, loss_u_s2: 0.012759, loss_u_w_fp: 0.004865
+[03:06:57.348] iteration 128 : loss : 0.589248, loss_x: 1.154582, loss_u_s1: 0.043608, loss_u_s2: 0.043608, loss_u_w_fp: 0.004218
+[03:06:57.774] iteration 129 : loss : 0.525122, loss_x: 0.963884, loss_u_s1: 0.154351, loss_u_s2: 0.154351, loss_u_w_fp: 0.018370
+[03:06:58.210] iteration 130 : loss : 0.531490, loss_x: 1.020572, loss_u_s1: 0.078503, loss_u_s2: 0.078503, loss_u_w_fp: 0.006311
+[03:06:58.656] iteration 131 : loss : 0.736670, loss_x: 1.442509, loss_u_s1: 0.057145, loss_u_s2: 0.057145, loss_u_w_fp: 0.004516
+[03:06:59.100] iteration 132 : loss : 0.568302, loss_x: 1.112615, loss_u_s1: 0.044260, loss_u_s2: 0.044260, loss_u_w_fp: 0.003715
+[03:06:59.551] iteration 133 : loss : 0.535082, loss_x: 1.055865, loss_u_s1: 0.023113, loss_u_s2: 0.023113, loss_u_w_fp: 0.005487
+[03:07:00.010] iteration 134 : loss : 0.597585, loss_x: 1.148195, loss_u_s1: 0.074441, loss_u_s2: 0.074441, loss_u_w_fp: 0.019510

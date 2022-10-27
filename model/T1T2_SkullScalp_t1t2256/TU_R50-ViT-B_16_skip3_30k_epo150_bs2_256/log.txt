@@ -1,0 +1,46 @@
+[13:14:53.776] Namespace(base_lr=0.01, batch_size=2, dataset='SkullScalp_t1t2', deterministic=1, exp='T1T2_SkullScalp_t1t2256', img_size=256, is_pretrain=False, max_epochs=150, max_iterations=300, n_gpu=1, n_skip=3, num_classes=9, root_path='train_t1t2.h5', seed=1234, vit_name='R50-ViT-B_16', vit_patches_size=16)
+[13:14:53.799] 43680.0 iterations per epoch. 6552000.0 max iterations 
+[13:15:28.389] Namespace(base_lr=0.01, batch_size=2, dataset='SkullScalp_t1t2', deterministic=1, exp='T1T2_SkullScalp_t1t2256', img_size=256, is_pretrain=False, max_epochs=150, max_iterations=300, n_gpu=1, n_skip=3, num_classes=9, root_path='train_t1t2.h5', seed=1234, vit_name='R50-ViT-B_16', vit_patches_size=16)
+[13:15:28.410] 43680.0 iterations per epoch. 6552000.0 max iterations 
+[13:15:52.091] Namespace(base_lr=0.01, batch_size=2, dataset='SkullScalp_t1t2', deterministic=1, exp='T1T2_SkullScalp_t1t2256', img_size=256, is_pretrain=False, max_epochs=150, max_iterations=300, n_gpu=1, n_skip=3, num_classes=9, root_path='train_t1t2.h5', seed=1234, vit_name='R50-ViT-B_16', vit_patches_size=16)
+[13:15:52.114] 43680.0 iterations per epoch. 6552000.0 max iterations 
+[13:16:16.331] Namespace(base_lr=0.01, batch_size=2, dataset='SkullScalp_t1t2', deterministic=1, exp='T1T2_SkullScalp_t1t2256', img_size=256, is_pretrain=False, max_epochs=150, max_iterations=300, n_gpu=1, n_skip=3, num_classes=9, root_path='train_t1t2.h5', seed=1234, vit_name='R50-ViT-B_16', vit_patches_size=16)
+[13:16:16.353] 43680.0 iterations per epoch. 6552000.0 max iterations 
+[16:02:27.641] Namespace(base_lr=0.01, batch_size=2, dataset='SkullScalp_t1t2', deterministic=1, exp='T1T2_SkullScalp_t1t2256', img_size=256, is_pretrain=False, max_epochs=150, max_iterations=300, n_gpu=1, n_skip=3, num_classes=9, root_path='train_t1t2.h5', seed=1234, vit_name='R50-ViT-B_16', vit_patches_size=16)
+[16:02:27.664] 43680.0 iterations per epoch. 6552000.0 max iterations 
+[16:05:57.148] Namespace(base_lr=0.01, batch_size=2, dataset='SkullScalp_t1t2', deterministic=1, exp='T1T2_SkullScalp_t1t2256', img_size=256, is_pretrain=False, max_epochs=150, max_iterations=300, n_gpu=1, n_skip=3, num_classes=9, root_path='train_t1t2.h5', seed=1234, vit_name='R50-ViT-B_16', vit_patches_size=16)
+[16:05:57.169] 43680.0 iterations per epoch. 6552000.0 max iterations 
+[16:06:56.837] Namespace(base_lr=0.01, batch_size=2, dataset='SkullScalp_t1t2', deterministic=1, exp='T1T2_SkullScalp_t1t2256', img_size=256, is_pretrain=False, max_epochs=150, max_iterations=300, n_gpu=1, n_skip=3, num_classes=9, root_path='train_t1t2.h5', seed=1234, vit_name='R50-ViT-B_16', vit_patches_size=16)
+[16:06:56.859] 43680.0 iterations per epoch. 6552000.0 max iterations 
+[16:57:08.960] Namespace(base_lr=0.01, batch_size=2, dataset='SkullScalp_t1t2', deterministic=1, exp='T1T2_SkullScalp_t1t2256', img_size=256, is_pretrain=False, max_epochs=150, max_iterations=300, n_gpu=1, n_skip=3, num_classes=9, root_path='train_t1t2.h5', seed=1234, vit_name='R50-ViT-B_16', vit_patches_size=16)
+[16:57:08.983] 43680.0 iterations per epoch. 6552000.0 max iterations 
+[17:08:08.513] Namespace(base_lr=0.01, batch_size=2, dataset='SkullScalp_t1t2', deterministic=1, exp='T1T2_SkullScalp_t1t2256', img_size=256, is_pretrain=False, max_epochs=150, max_iterations=300, n_gpu=1, n_skip=3, num_classes=9, root_path='train_t1t2.h5', seed=1234, vit_name='R50-ViT-B_16', vit_patches_size=16)
+[17:08:08.536] 43680.0 iterations per epoch. 6552000.0 max iterations 
+[17:11:32.656] Namespace(base_lr=0.01, batch_size=2, dataset='SkullScalp_t1t2', deterministic=1, exp='T1T2_SkullScalp_t1t2256', img_size=256, is_pretrain=False, max_epochs=150, max_iterations=300, n_gpu=1, n_skip=3, num_classes=9, root_path='train_t1t2.h5', seed=1234, vit_name='R50-ViT-B_16', vit_patches_size=16)
+[17:11:32.678] 43680.0 iterations per epoch. 6552000.0 max iterations 
+[17:12:12.743] Namespace(base_lr=0.01, batch_size=2, dataset='SkullScalp_t1t2', deterministic=1, exp='T1T2_SkullScalp_t1t2256', img_size=256, is_pretrain=False, max_epochs=150, max_iterations=300, n_gpu=1, n_skip=3, num_classes=9, root_path='train_t1t2.h5', seed=1234, vit_name='R50-ViT-B_16', vit_patches_size=16)
+[17:12:12.759] 43680.0 iterations per epoch. 6552000.0 max iterations 
+[17:12:53.595] Namespace(base_lr=0.01, batch_size=2, dataset='SkullScalp_t1t2', deterministic=1, exp='T1T2_SkullScalp_t1t2256', img_size=256, is_pretrain=False, max_epochs=150, max_iterations=300, n_gpu=1, n_skip=3, num_classes=9, root_path='train_t1t2.h5', seed=1234, vit_name='R50-ViT-B_16', vit_patches_size=16)
+[17:12:53.616] 43680.0 iterations per epoch. 6552000.0 max iterations 
+[17:16:54.393] Namespace(base_lr=0.01, batch_size=2, dataset='SkullScalp_t1t2', deterministic=1, exp='T1T2_SkullScalp_t1t2256', img_size=256, is_pretrain=False, max_epochs=150, max_iterations=300, n_gpu=1, n_skip=3, num_classes=9, root_path='train_t1t2.h5', seed=1234, vit_name='R50-ViT-B_16', vit_patches_size=16)
+[17:16:54.415] 43680.0 iterations per epoch. 6552000.0 max iterations 
+[17:17:08.484] Namespace(base_lr=0.01, batch_size=2, dataset='SkullScalp_t1t2', deterministic=1, exp='T1T2_SkullScalp_t1t2256', img_size=256, is_pretrain=False, max_epochs=150, max_iterations=300, n_gpu=1, n_skip=3, num_classes=9, root_path='train_t1t2.h5', seed=1234, vit_name='R50-ViT-B_16', vit_patches_size=16)
+[17:17:08.501] 43680.0 iterations per epoch. 6552000.0 max iterations 
+[17:17:12.550] iteration 1 : loss : 1.486724, loss_ce: 2.104419
+[17:17:12.740] iteration 2 : loss : 1.457408, loss_ce: 2.056984
+[17:17:12.902] iteration 3 : loss : 1.396074, loss_ce: 1.913649
+[17:17:13.069] iteration 4 : loss : 1.327619, loss_ce: 1.801059
+[17:17:13.237] iteration 5 : loss : 1.211298, loss_ce: 1.475067
+[17:17:13.398] iteration 6 : loss : 1.255505, loss_ce: 1.675222
+[17:17:13.565] iteration 7 : loss : 1.237439, loss_ce: 1.648051
+[17:17:13.734] iteration 8 : loss : 1.048928, loss_ce: 1.269645
+[17:17:13.907] iteration 9 : loss : 1.199511, loss_ce: 1.578632
+[17:17:14.075] iteration 10 : loss : 1.156765, loss_ce: 1.491729
+[17:17:14.250] iteration 11 : loss : 1.004745, loss_ce: 1.181045
+[17:17:14.438] iteration 12 : loss : 1.179718, loss_ce: 1.542710
+[17:17:14.617] iteration 13 : loss : 1.066209, loss_ce: 1.325090
+[17:17:14.787] iteration 14 : loss : 1.172444, loss_ce: 1.537138
+[17:17:14.958] iteration 15 : loss : 0.812600, loss_ce: 0.781924
+[17:17:15.135] iteration 16 : loss : 0.997394, loss_ce: 1.183406
+[17:17:15.309] iteration 17 : loss : 0.925150, loss_ce: 1.051977
+[17:17:15.485] iteration 18 : loss : 0.871277, loss_ce: 0.946608

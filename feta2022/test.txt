@@ -1,0 +1,4 @@
+/project/ajoshi_27/feta_2022/feta_2.2/sub-060/anat/sub-060_rec-irtk
+/project/ajoshi_27/feta_2022/feta_2.2/sub-066/anat/sub-066_rec-irtk
+/project/ajoshi_27/feta_2022/feta_2.2/sub-021/anat/sub-021_rec-mial
+/project/ajoshi_27/feta_2022/feta_2.2/sub-013/anat/sub-013_rec-mial
